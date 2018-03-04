@@ -5,4 +5,6 @@ These layouts are simply here for archiving purposes and can be used as a baseli
 
 One-Third + Two-Thirds:
 
+![Layout picture](layout.png)
+
 This layout uses a header and footer that span the full length of the grid and a sidebar that continues down the left side inside of the header and footer. It also uses cards for the main content with one of the cards taking up two columns and two rows. 
